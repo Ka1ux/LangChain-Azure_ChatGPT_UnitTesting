@@ -1,0 +1,8 @@
+# Ambiente
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Segredos (NUNCA versionar)
+.env
